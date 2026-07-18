@@ -1,0 +1,147 @@
+.left-div{
+    max-width: 270px;
+    height: 900px;
+    display: flex;
+    top: 0;
+    right: 0;
+
+
+    
+
+    
+
+}
+.t-1{
+    width: 100px;
+    height: 22px;
+    background-color: white;
+    display: flex;
+    margin-left: 0px;
+    margin-top: 14px;
+    
+    
+     
+}
+.p-1{
+    margin-top: 6px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    cursor: pointer;
+    
+}
+.s-1{
+    height: 24px;
+    margin-top: 5px;
+    
+}
+
+
+.first-name{
+    height: 40px;
+    width: 180px;
+    margin-left: 30px;
+}
+.name-1{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    font-weight: 100;
+    margin-left: 0px;
+    color: blue;
+    cursor: pointer;
+    
+
+}
+.t-3{
+    width: 180px;
+    height: 30px;
+    display: flex;
+margin-left: -80px;
+margin-top: 97px;
+border-bottom: 1px solid rgb(139, 133, 133);
+
+}
+.appear{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.a-1{
+    width: 40px;
+    height: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4px;
+    margin-left: 9px;
+    background-color: rgb(211, 214, 214);
+    padding-left: 8px;
+    cursor: pointer;
+}
+.text{
+    width: 180px;
+    height: 25px;
+    margin-left: -80px;
+    margin-top: 10px;
+    border-bottom: 1px solid black;
+    
+
+}
+.text-1{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(124, 119, 119);
+
+}
+.text-2{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6px;
+    color: rgb(133, 126, 126);
+}
+.width{
+    width: 180px;
+    height: 25px;
+    margin-left: -80px;
+    margin-top: 125px;
+    border-bottom: 1px solid black;
+    
+}
+.width-1{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(110, 106, 106);
+
+}
+.width-2{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6px;
+    color: rgb(110, 106, 106);
+}
+
+.color{
+    width: 180px;
+    height: 25px;
+    margin-left: -80px;
+    margin-top: 94px;
+    border-bottom: 1px solid black;
+    
+
+}
+.color-1{
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(116, 109, 109);
+
+}
+.color-2{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 6px;
+    color: rgb(121, 112, 112);
+}
+
+

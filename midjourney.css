@@ -1,0 +1,327 @@
+.midjourney-div{
+    width: 762px;
+    height: 3150px;
+    display: flex;
+    margin-top: 21030px;
+    margin-left: -762px;
+    
+ }
+ .midjourney{
+
+    width: 750px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 36px;
+    border-bottom: 1px solid rgb(141, 136, 136);
+ }
+ .midjourney-language{
+    width: 140px;
+    height: 30px;
+    margin-left: 640px;
+    display: flex;
+    margin-top: -30px;
+    align-items: center;
+}
+.midjourney-c-43{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+.midjourney-arrow-blue{
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+.midjourney-read-div{
+    width: 770px;
+    height: 30px;
+    display: flex;
+    margin-top: 70px;
+    background-color: white;
+    margin-left: -750px;
+    border-bottom: 1px solid rgb(141, 136, 136);
+    font-size: 36px;
+    flex-direction:row ;
+    align-items: center;
+    
+    
+
+    
+}
+.midjourney-article{
+    width: 70px;
+    margin-left: 5px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.midjourney-talk{
+    width: 70px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(80, 80, 199);
+}
+.midjourney-read{
+    width: 40px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 270px;
+    margin-right: 20px;
+}
+.midjourney-view-source{
+    width: 110px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(74, 74, 190);
+
+}
+.midjourney-view-history{
+    width: 110px;
+    font-size: 16px;
+    color: rgb(104, 104, 211);
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+.midjourney-tools-div{
+    height: 30px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    color: rgb(109, 106, 106);
+
+}
+.midjourney-arrow-black{
+    height: 20px;
+    margin-top: 2px;
+    margin-left: 14px;
+    
+
+}
+.midjourney-intro{
+    width: 750px;
+    height: 170px;
+    margin-top: 115px;
+    margin-left: -750px;
+    
+    
+    
+    
+}
+.midjourney-heading-1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    font-weight: 600;
+
+}
+.midjourney-llm{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-left: 12px;
+}
+.midjourney-heading-2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 35px;
+    margin-bottom: 25px;
+    margin-left: 2px;
+    font-weight: 600;
+
+}
+.midjourney-ver-1{
+    width: 700px;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 12px;
+
+}
+.midjourney-heading-3{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    font-weight: 600;
+    
+}
+.midjourney-natural{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 9px;
+    color: rgb(26, 25, 25);
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.midjourney-multiple{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-left: 28px;
+}
+.midjourney-coding{
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 9px;
+    color: rgb(26, 25, 25);
+    font-weight: 600;
+}
+.midjourney-can{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-left: 28px;
+}
+.midjourney-logo-div{
+    width: 560px;
+    height: 210px;
+    margin-left:-590px;
+    margin-top: 1760px;
+    align-items: center;
+}
+.midjourney-logo-image{
+    width: 420px;
+    height: 210px;
+
+}
+.midjourney-ad{
+    width: 740px;
+    height: 300px;
+    margin-left: -660px;
+    margin-top: 1995px;
+
+
+}
+
+.midjourney-table{
+        width: 640px;
+        border-collapse: collapse;
+        margin-top: 90px;
+
+    
+        
+    }
+    th, td{
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+        vertical-align: top;
+    }
+    th{
+        background-color: #f4f4f4;
+        font-size: 1.2em;
+    
+    }
+    tr:nth-child(even){
+        background-color: #fafafa;
+    }
+    ol{
+        margin: 0;
+        padding-left: 20px;
+    }
+    li{
+        margin: 5px;
+    }
+    .midjourney-who{
+         width: 750px;
+         height: 360px;
+         margin-top: 2750px;
+         margin-left: -750px;
+
+    }
+    .midjourney-to{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 8px;
+    color: rgb(26, 25, 25);
+    font-weight: 600;
+}
+.midjourney-use{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.midjourney-use-1{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-3{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-4{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-5{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-6{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-7{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-8{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-9{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+.midjourney-use-10{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin-left: 28px;
+     margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+ 
+
+
+ 
+

@@ -1,0 +1,219 @@
+
+.main-div{
+    width: 1250px;
+    height: 30900px;
+    bottom: 600px;
+    display: flex;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+.right-div{
+    max-width: 280px;
+    height: 900px;
+    flex-direction: row;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    position: fixed;
+    align-items: center;
+    background-color: white;
+
+
+
+}
+.first{
+    height: 80px;
+    width: 170px;
+    background-color: white;
+    margin-left: 25px;
+    cursor: pointer;
+}
+.n-1{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 12PX;
+    margin-bottom: 6PX;
+    margin-left: 30px;
+    background-color: white;
+    
+
+}
+.name-2{
+    width: 160px;
+    height: 30px;
+    margin-top: 66px;
+    flex-direction: row;
+    display: flex;
+    border-bottom: 1px solid rgb(145, 136, 136);
+
+}
+.content{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+
+}
+.hide{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 12px;
+    margin-top: 4px;
+    width: 40px;
+    height: 20px;
+    padding-left: 12px;
+    background-color: rgb(201, 197, 192);
+    align-items: center;
+
+}
+.bottom-div{
+    width: 180px;
+    height: 400px;
+    background-color: WHITE;
+    display: flex;
+    flex-direction: column;
+
+}
+.top{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 9px;
+    margin-bottom: 4PX;
+    margin-left: 26px;
+
+
+}
+.early{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.logo-1{
+    background-color: white;
+    display: flex;
+    margin-top: 8px;
+}
+.pic-1{
+    filter: invert(1);
+    margin-right: 6px;
+    margin-top: 6px;
+
+}
+.h-1{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    margin-top: 8PX;
+    
+}
+
+
+.logo-2{
+    background-color:white;
+    display: flex;
+    margin-top: 8px;
+
+}
+.pic-2{
+    filter: invert(1);
+    margin-right: 6px;
+    margin-top: 5px;
+    
+
+
+}
+.h-2{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    margin-top: 7PX;
+
+    
+}
+
+
+.logo-3{
+    display: flex;
+    margin-top: 12px;
+    margin-bottom: 2PX;
+
+}
+.pic-3{
+    filter: invert(1);
+    margin-right: 6px;
+    margin-top: 2px;
+
+}
+.h-3{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    margin-top: 5PX;
+    
+}
+
+
+.logo-4{
+    background-color: white;
+    display: flex;
+    margin-top: 8px;
+
+}
+.pic-4{
+    filter: invert(1);
+    margin-right: 6px;
+    margin-top: 6px;
+
+}
+.h-4{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    margin-top: 8PX;
+    
+    
+}
+
+.influence{
+    color: blue;
+    font-size:14px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 8px;
+
+}
+
+.books{
+    color: blue;
+    font-size:14px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 8px;
+
+}
+.see{
+    color: blue;
+    font-size:14px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 15px;
+    margin-bottom: 4PX;
+
+
+}
+.external{
+    color: blue;
+    font-size:14px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 8PX;
+    margin-bottom: 8PX;
+    
+    
+
+}
